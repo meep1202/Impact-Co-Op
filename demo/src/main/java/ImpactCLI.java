@@ -14,7 +14,7 @@ public class ImpactCLI implements Callable<Integer> {
 
     public Integer call() {
         if (requestString == "Yes") {
-            System.out.println("Please hire me!!");
+            System.out.println("Please hire me Impact!!");
         }
         else {
             System.out.println(":(");
